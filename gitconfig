@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = olivier.barthelemy1993@gmail.com
+	name = Olivier Barthelemy
